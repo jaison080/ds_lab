@@ -54,12 +54,12 @@ void padd(int startA,int finishA,int startB,int finishB,int *startD,int *finishD
                 startA++;
             }    
         }
-        for(;startA<=finishA;startA++)
+    }
+    for(;startA<=finishA;startA++)
             attach(terms[startA].coef,terms[startA].expon);
-        for(;startB<=finishB;startB++)
+    for(;startB<=finishB;startB++)
             attach(terms[startB].coef,terms[startB].expon);      
-        *finishD=avail-1;
-    }  
+    *finishD=avail-1;
 }
 void polyprint(int start,int finish)
 {
