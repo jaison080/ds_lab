@@ -52,24 +52,24 @@ void convertToSparseMatrix()
         {
             if (matrix1[i][j])
             {
-                sparse1[k1].row = i + 1;
-                sparse1[k1].col = j + 1;
+                sparse1[k1].row = i ;
+                sparse1[k1].col = j ;
                 sparse1[k1].value = matrix1[i][j];
                 k1++;
             }
             if (matrix2[i][j])
             {
-                sparse2[k2].row = i + 1;
-                sparse2[k2].col = j + 1;
+                sparse2[k2].row = i ;
+                sparse2[k2].col = j ;
                 sparse2[k2].value = matrix2[i][j];
                 k2++;
             }
         }
     }
     SIZE1 = k1;
-    sparse1[0].value = k1 - 1;
+    sparse1[0].value = k1-1 ;
     SIZE2 = k2;
-    sparse2[0].value = k2 - 1;
+    sparse2[0].value = k2-1 ;
 }
 
 void CalculateSum()
@@ -150,7 +150,7 @@ void convertSparseToNormal()
             matrixSum[i][j] = 0;
     for (i = 1; i < SUM_SIZE; i++)
     {
-        matrixSum[sparseSum[i].row - 1][sparseSum[i].col - 1] = sparseSum[i].value;
+        matrixSum[sparseSum[i].row ][sparseSum[i].col ] = sparseSum[i].value;
     }
 }
 
