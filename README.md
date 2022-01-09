@@ -36,5 +36,7 @@ which keeps track of the minimum element.</li>
 <li>16.Convert a given decimal number into binary and hex using stack.</li>
 <li>17.Check whether a string is palindrome using stack.</li>
 <li>18.Check whether the parenthesis are balanced in an expression using stack.</li>
-<li>19.Convert a given infix expression to postfix/prefix using stack.</li>
-<li>20.Evaluate a postfix/prefix expression.</li>
+<li>19.Convert a given infix expression to postfixusing stack.</li>
+<li>20.Convert a given infix expression to prefix using stack.</li>
+<li>21.Evaluate a postfix expression.</li>
+<li>22.Evaluate a prefix expression.</li>
