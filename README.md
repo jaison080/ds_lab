@@ -3,12 +3,18 @@
 <p>Contains solutions for all DS Lab Programs.
 This repository contains all you need for DS Lab of KTU Semester 3
 The program description are given below and you can open the corresponding program from the repository.</p>
+<br>
+<h2>CYCLE 1</h2>
 <ul>
 <li>1.Write a function rotate(int a[],int n,char d,int cr) to rotate given array elements.The function will take the array, number of elements in the array, direction of rotation(l-left r-right) and count of rotation( how many times to rotate)</li>
 <li>2.Find the mean, median and mode of list of elements. Use array to implement the same.(assume Unimode )</li>
 <li>3.Find the frequency of occurrence of each character in the string ( histogram)</li>
 <li>4.Consider two sets S1={1,2,3,4}, and S2={3,4,5}. Find the intersection of S1 and S2={3,4}.Implement the set operation intersection using arrays.</li>
 <li>5.An nx4 array stores 4 bit binary numbers. Read the matrix and print the hexadecimal equivalent of the same.</li>
+  </ul>
+  <br>
+  <h2>CYCLE 2</h2>
+  <ul>
 <li>6.Write a program to read two polynomials and store them in an array.
 Calculate the sum of the two polynomials and display the first
 polynomial, second polynomial and the resultant polynomial.</li>
@@ -27,6 +33,10 @@ representation of their sum.</li>
 of its transpose.</li>
 <li>11.Check whether the given matrix is sparse symmetric using the
 representation given.</li>
+  </ul>
+  <br>
+  <h2>CYCLE 3</h2>
+  <ul>
 <li>12.Implement a stack using an array.</li>
 <li>13.Implement multiple stacks(2 stacks) using an array. Consider memory
 efficient implementation</li>
@@ -40,3 +50,17 @@ which keeps track of the minimum element.</li>
 <li>20.Convert a given infix expression to prefix using stack.</li>
 <li>21.Evaluate a postfix expression.</li>
 <li>22.Evaluate a prefix expression.</li>
+  </ul>
+  <br>
+  <h2>CYCLE 4</h2>
+  <ul>
+<li>23.Create a linked list with n elements by adding elements at the end.</li>
+  <li>24.Given a node data, insert a new node after it.</li>
+  <li>25.Given a node data, insert a new node before it.</li>
+  <li>26.Insert a new node in the given position.</li>
+  <li>27.Delete a node, given the key data value.</li>
+  <li>28.Delete a node given the position.</li>
+  <li>29.Delete the smallest element from the list.</li>
+  <li>30.Reverse a list.</li>
+  <li>31.Search for a given element and print it's position.</li>
+  <li>32.Create a list in sorted order.</li>
