@@ -6,7 +6,7 @@
 char stack[MAX],top=-1;
 int isOperand(char ch)
 {
-    return(isDigit(ch))||(ch>='a'&&ch<='z')||(ch>='A'&&ch<='Z');
+    return(isdigit(ch))||(ch>='a'&&ch<='z')||(ch>='A'&&ch<='Z');
 }
 int Prec(char ch)
 {
