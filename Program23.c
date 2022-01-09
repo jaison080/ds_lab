@@ -11,7 +11,7 @@ struct node* createNode()
     struct node* newNode=(struct node*)malloc((sizeof(struct node)));
     if(newNode!=NULL)
         newNode->next=NULL;
-    return();
+    return(newNode);
 }
 void createElem(int data)
 {
@@ -27,12 +27,11 @@ void createElem(int data)
             first=newNode;
         newNode->data=data;
     }
-}
-int main()
+}()
 {
+     int choice,data;
     do
     {
-        int choice,data;
         printf("1.Add elements\n");
         printf("2.Display Elements\n");
         printf("3.Exit\n");
@@ -45,7 +44,9 @@ int main()
                 scanf("%d",&data);
                 createElem(data);
                 break;
+            
+            case 2:
         }
-    }while(choice<3)
+    }while(choice<3);
     return 0;
 }
