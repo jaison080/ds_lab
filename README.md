@@ -64,3 +64,8 @@ which keeps track of the minimum element.</li>
   <li>30.Reverse a list.</li>
   <li>31.Search for a given element and print it's position.</li>
   <li>32.Create a list in sorted order.</li>
+  <li>33.Implement a stack using singly linked list (this can be considered as a part of the previous assignment on stack).</li>
+  </ul>
+  <br>
+  <h2>CYCLE 5</h2>
+
