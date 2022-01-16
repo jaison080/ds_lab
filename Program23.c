@@ -6,35 +6,91 @@ struct node
     struct node* next;
 };
 struct node* first=NULL;
-struct node* createNode()
+struct node* createNode(int data)
 {
     struct node* newNode=(struct node*)malloc((sizeof(struct node)));
-    if(newNode!=NULL)
-        newNode->next=NULL;
-    return(newNode);
-}
-void createElem(int data)
-{
-    struct node* newNode=createNode();
     if(newNode==NULL)
     {
-        printf("Sorry there was an error\nAborting\n");
+        printf("Sorry there wasan error\nAborting\n");
         exit(0);
+    }
+    newNode->next=NULL;
+    newNode->data=data;
+    return(newNode);
+}
+void addElemEnd(int data)
+{
+    struct node* newNode=createNode(data);
+    if(first==NULL)
+    {
+        first=newNode;
     }
     else
     {
-        if(first==NULL)
-            first=newNode;
-        newNode->data=data;
+        struct node*temp=first;
+        while(temp->next!=NULL)
+            temp=temp->next;
+        temp->next=newNode;
     }
-}()
+}
+void display()
 {
-     int choice,data;
+    if(first==NULL)
+        printf("\nList Empty\n");
+    else
+    {
+        struct node*temp=first;
+        printf("Head");
+        while(temp!=NULL)
+        {
+            printf("->%d",temp->data);
+            temp=temp->next;
+        }
+    }
+    printf("\n\n");
+}
+void delete(int data)
+{
+    if(first==NULL)
+        printf("\nList Empty\n");
+    else
+    {
+        struct node*temp=first,*del=NULL;
+        if(first->data==data)
+        {
+            del = first;
+            first = first->next;
+            free(del);
+            printf("\nElement Deleted! \n");
+        }
+        else
+        {
+            while(temp!=NULL)
+            {
+                if(temp->next!=NULL&&temp->next->data==data)
+                {
+                    del=temp->next;
+                    temp->next=temp->next->next;
+                    free(del);
+                    printf("\nElement Deleted!\n");
+                }
+                temp=temp->next;
+            }
+        }
+        if(del==NULL)
+            printf("\nElement not found!\n");
+    }
+}
+int main()
+{
+    int choice;
     do
     {
+        int data;
         printf("1.Add elements\n");
         printf("2.Display Elements\n");
-        printf("3.Exit\n");
+        printf("3.Delete Elements\n");
+        printf("4.Exit\n");
         printf("\nEnter your choice : ");
         scanf("%d",&choice);
         switch(choice)
@@ -42,11 +98,26 @@ void createElem(int data)
             case 1:
                 printf("Enter value : ");
                 scanf("%d",&data);
-                createElem(data);
+                addElemEnd(data);
                 break;
             
             case 2:
+                display();
+                break;
+            
+            case 3:
+                printf("Enter value that you want to delete : ");
+                scanf("%d",&data);
+                delete(data);
+                break;
+
+            case 4:
+                break;
+
+            default:
+                printf("Invalid Choice\n");
+                break;
         }
-    }while(choice<3);
+    }while(choice<4);
     return 0;
 }
