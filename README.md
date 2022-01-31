@@ -68,4 +68,10 @@ which keeps track of the minimum element.</li>
   </ul>
   <br>
   <h2>CYCLE 5</h2>
-
+ <ul>
+<li>34.Queue - Implement using array and Linked List.</li>
+  <li>35.Circlular Queue ( Ring Buffer)- Implement Using Array and Linked List.</li>
+  <li>37.Priority Queue -Implement Using Array or Linked List.</li>
+  <li>38.Double Ended Queue –Implement using linked list.</li>
+  </ul>
+  <br>
