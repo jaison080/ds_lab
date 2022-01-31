@@ -56,11 +56,11 @@ int main(){
     int ch;
     int state=0;
     while(state==0){
-        printf("1. add 2. reverse 3 display 4 exit");
+        printf("1. Add \n2. Reverse \n3. Display \n4. Exit");
         scanf("%d",&ch);
         switch(ch){
             case 1:{
-                printf("enter the data to be added: ");
+                printf("Enter the data to be added: ");
                 int item;
                 scanf("%d",&item);
                 add(item);
@@ -68,7 +68,7 @@ int main(){
             }
             case 2:{
                 reverse();
-                printf("Reversed...");
+                printf("Reversed...\n");
                 break;
             }
             case 3:{
