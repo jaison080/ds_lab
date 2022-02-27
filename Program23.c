@@ -11,7 +11,7 @@ struct node* createNode(int data)
     struct node* newNode=(struct node*)malloc((sizeof(struct node)));
     if(newNode==NULL)
     {
-        printf("Sorry there wasan error\nAborting\n");
+        printf("Sorry there was an error\nAborting\n");
         exit(0);
     }
     newNode->next=NULL;
