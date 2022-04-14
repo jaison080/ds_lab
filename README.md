@@ -7,13 +7,11 @@ The program description are given below and you can open the corresponding progr
 <br>
 <h2>CYCLE 1</h2>
 <ul>
-    <li>1.Write a function rotate(int a[],int n,char d,int cr) to rotate given array elements.The function will take the array, number of elements in the array, direction of rotation(l-left r-right) and count of rotation( how many times to rotate)
-    [Submit]("https://github.com/jaison080/ds_lab/blob/main/Cycle%201/Program1.c"){:target="_blank"}
-    <li>2.Find the mean, median and mode of list of elements. Use array to implement the same.(assume Unimode )</li>
-    <li>3.Find the frequency of occurrence of each character in the string ( histogram)</li>
-    <li>4.Consider two sets S1={1,2,3,4}, and S2={3,4,5}. Find the intersection of S1 and S2={3,4}.Implement the set operation intersection using arrays.</li>
-    <li>5.An nx4 array stores 4 bit binary numbers. Read the matrix and print the hexadecimal equivalent of the same.</li>
-
+    <li>1.Write a function rotate(int a[],int n,char d,int cr) to rotate given array elements.The function will take the array, number of elements in the array, direction of rotation(l-left r-right) and count of rotation( how many times to rotate)<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%201/Program1.c" target="blank" > Solution</a></li>
+    <li>2.Find the mean, median and mode of list of elements. Use array to implement the same.(assume Unimode )<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%201/Program2.c" target="blank" > Solution</a></li>
+    <li>3.Find the frequency of occurrence of each character in the string ( histogram)<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%201/Program3.c" target="blank" > Solution</a></li>
+    <li>4.Consider two sets S1={1,2,3,4}, and S2={3,4,5}. Find the intersection of S1 and S2={3,4}.Implement the set operation intersection using arrays.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%201/Program4.c" target="blank" > Solution</a></li>
+    <li>5.An nx4 array stores 4 bit binary numbers. Read the matrix and print the hexadecimal equivalent of the same.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%201/Program5.c" target="blank" > Solution</a></li>
 </ul>
 <br>
 <h2>CYCLE 2</h2>
