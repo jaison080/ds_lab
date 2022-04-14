@@ -38,19 +38,19 @@ The program description are given below and you can open the corresponding progr
 <br>
 <h2>CYCLE 3</h2>
 <ul>
-    <li>12.Implement a stack using an array.</li>
+    <li>12.Implement a stack using an array.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%203/Program12.c" target="blank" > Solution</a></li>
     <li>13.Implement multiple stacks(2 stacks) using an array. Consider memory
-    efficient implementation</li>
+    efficient implementation.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%203/Program13.c" target="blank" > Solution</a></li>
     <li>14.Find the minimum element in a stack in O(1) time using an auxiliary stack
-    which keeps track of the minimum element.</li>
-    <li>15.implement a sorted push so that stack is always maintained in sorted order.</li>
-    <li>16.Convert a given decimal number into binary and hex using stack.</li>
-    <li>17.Check whether a string is palindrome using stack.</li>
-    <li>18.Check whether the parenthesis are balanced in an expression using stack.</li>
-    <li>19.Convert a given infix expression to postfixusing stack.</li>
-    <li>20.Convert a given infix expression to prefix using stack.</li>
-    <li>21.Evaluate a postfix expression.</li>
-    <li>22.Evaluate a prefix expression.</li>
+    which keeps track of the minimum element.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%203/Program14.c" target="blank" > Solution</a></li>
+    <li>15.implement a sorted push so that stack is always maintained in sorted order.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%203/Program15.c" target="blank" > Solution</a></li>
+    <li>16.Convert a given decimal number into binary and hex using stack.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%203/Program16.c" target="blank" > Solution</a></li>
+    <li>17.Check whether a string is palindrome using stack.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%203/Program17.c" target="blank" > Solution</a></li>
+    <li>18.Check whether the parenthesis are balanced in an expression using stack.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%203/Program18.c" target="blank" > Solution</a></li>
+    <li>19.Convert a given infix expression to postfixusing stack.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%203/Program19.c" target="blank" > Solution</a></li>
+    <li>20.Convert a given infix expression to prefix using stack.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%203/Program20.c" target="blank" > Solution</a></li>
+    <li>21.Evaluate a postfix expression.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%203/Program21.c" target="blank" > Solution</a></li>
+    <li>22.Evaluate a prefix expression.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%203/Program22.c" target="blank" > Solution</a></li>
 </ul>
 <br>
 <h2>CYCLE 4</h2>
