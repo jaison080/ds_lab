@@ -93,18 +93,18 @@ The program description are given below and you can open the corresponding progr
     <li>48.Implement a circular linked list with provisions to insert and delete elements(singly/doubly)<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%206/Program48.c" target="blank" > Solution</a></li>
     </ul>
 <h3>Represent polynomials using linked list </h3>
-        <ul>
-      <li>49.Addition.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%205/Program49.c" target="blank" > Solution</a></li>
-      <li>50.Subtraction.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%205/Program50.c" target="blank" > Solution</a></li>
-            <li>51.Multiplication.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%205/Program51.c" target="blank" > Solution</a></li></ul>
+<ul>
+  <li>49.Addition.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%205/Program49.c" target="blank" > Solution</a></li>
+  <li>50.Subtraction.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%205/Program50.c" target="blank" > Solution</a></li>
+  <li>51.Multiplication.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%205/Program51.c" target="blank" > Solution</a></li></ul>
 <br>
 <h2>CYCLE 7</h2>
 <h3>Build a Binary Search Tree and Implement all the operations and Traversals </h3>
-        <ul>
-          <li>52.Create a binary search tree</li>
-          <li>53.Inorder,Preorder,Post Order</li>
-          <li>54.Level Order</li>
-          <li>55.Delete a specified node</li>
-          <li>56.Search for a given key element ( print found/not found also print the number of comparisons made )</li>
-      </ul>
+<ul>
+  <li>52.Create a binary search tree</li>
+  <li>53.Inorder,Preorder,Post Order</li>
+  <li>54.Level Order</li>
+  <li>55.Delete a specified node</li>
+  <li>56.Search for a given key element ( print found/not found also print the number of comparisons made</li>
+</ul>
 <br>
