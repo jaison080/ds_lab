@@ -95,3 +95,19 @@ The program description are given below and you can open the corresponding progr
             <li>multiplication.</li></ul></li>
 </ul>
 <br>
+<h2>CYCLE 7</h2>
+<ul>
+    <li>42.Build a Binary Search Tree and Implement all the operations and Traversals
+        <ul>
+      <li>Create a binary search tree</li>
+      <li>Do the traversals</li>
+      <ul>
+      <li>Inorder</li>
+      <li>Preorder</li>
+      <li>Post Order</li>
+      <li>Level Order</li>
+      </ul>
+      <li>Delete a specified node</li></ul></li>
+    <li>Search for a given key element ( print found/not found also print the number of comparisons made )</li>
+</ul>
+<br>
