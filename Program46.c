@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -44,32 +45,23 @@ void insertion_last()
     }
     printf("\nnode inserted\n");
 }
-// insert before specific node
-void insert_before_node(int data, int data_before)
+// delete node given position
+void delete_node(int position)
 {
     struct DLL *temp = head;
-    while (temp != NULL)
+    int i;
+    for (i = 0; i < position - 2; i++)
     {
-        if (temp->data == data_before)
-        {
-            struct DLL *ptr = (struct DLL *)malloc(sizeof(struct DLL));
-            ptr->data = data;
-            ptr->next = temp;
-            ptr->prev = temp->prev;
-            temp->prev = ptr;
-            if (ptr->prev != NULL)
-            {
-                ptr->prev->next = ptr;
-            }
-            else
-            {
-                head = ptr;
-            }
-        }
         temp = temp->next;
     }
+    struct DLL *ptr = temp->next;
+    temp->next = ptr->next;
+    if (ptr->next != NULL)
+    {
+        ptr->next->prev = temp;
+    }
+    free(ptr);
 }
-
 void main()
 {
     int n;
@@ -88,17 +80,15 @@ void main()
     }
 
     printf("\n");
-    int data, data_before;
-    printf("Enter the data to be inserted: ");
-    scanf("%d", &data);
-    printf("Enter the data after which you want to insert: ");
-    scanf("%d", &data_before);
-    insert_before_node(data, data_before);
+    int position;
+    printf("Enter the position of node you want to delete: ");
+    scanf("%d", &position);
+    delete_node(position);
     // PRINT ELEMENTS OF NODE
-    struct DLL *temp = head;
-    while (temp != NULL)
+    struct DLL *temp1 = head;
+    while (temp1 != NULL)
     {
-        printf("%d ", temp->data);
-        temp = temp->next;
+        printf("%d ", temp1->data);
+        temp1 = temp1->next;
     }
 }

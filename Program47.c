@@ -44,30 +44,29 @@ void insertion_last()
     }
     printf("\nnode inserted\n");
 }
-// insert before specific node
-void insert_before_node(int data, int data_before)
+
+// delete smallest node
+void delete_smallest()
 {
     struct DLL *temp = head;
+    struct DLL *smallest = head;
     while (temp != NULL)
     {
-        if (temp->data == data_before)
+        if (temp->data < smallest->data)
         {
-            struct DLL *ptr = (struct DLL *)malloc(sizeof(struct DLL));
-            ptr->data = data;
-            ptr->next = temp;
-            ptr->prev = temp->prev;
-            temp->prev = ptr;
-            if (ptr->prev != NULL)
-            {
-                ptr->prev->next = ptr;
-            }
-            else
-            {
-                head = ptr;
-            }
+            smallest = temp;
         }
         temp = temp->next;
     }
+    if (smallest->prev != NULL)
+    {
+        smallest->prev->next = smallest->next;
+    }
+    if (smallest->next != NULL)
+    {
+        smallest->next->prev = smallest->prev;
+    }
+    free(smallest);
 }
 
 void main()
@@ -88,17 +87,12 @@ void main()
     }
 
     printf("\n");
-    int data, data_before;
-    printf("Enter the data to be inserted: ");
-    scanf("%d", &data);
-    printf("Enter the data after which you want to insert: ");
-    scanf("%d", &data_before);
-    insert_before_node(data, data_before);
+    delete_smallest();
     // PRINT ELEMENTS OF NODE
-    struct DLL *temp = head;
-    while (temp != NULL)
+    struct DLL *temp1 = head;
+    while (temp1 != NULL)
     {
-        printf("%d ", temp->data);
-        temp = temp->next;
+        printf("%d ", temp1->data);
+        temp1 = temp1->next;
     }
 }

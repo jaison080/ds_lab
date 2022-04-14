@@ -90,17 +90,17 @@ The program description are given below and you can open the corresponding progr
       <li>45.Delete a node, given the key data value.</li>
       <li>46.Delete a node given the position.</li>
       <li>47.Delete the smallest element from the list.</li>
-    <li>49.Implement a circular linked list with provisions to insert and delete elements(singly/doubly)</li>
+    <li>48.Implement a circular linked list with provisions to insert and delete elements(singly/doubly)</li>
     </ul>
     <h3>Represent polynomials using linked list </h3>
         <ul>
-      <li>50.Addition</li>
-      <li>51.Subtraction.</li>
-            <li>52.Multiplication.</li></ul>
+      <li>49.Addition</li>
+      <li>50.Subtraction.</li>
+            <li>51.Multiplication.</li></ul>
 <br>
 <h2>CYCLE 7</h2>
 <ul>
-    <li>53.Build a Binary Search Tree and Implement all the operations and Traversals
+    <li>52.Build a Binary Search Tree and Implement all the operations and Traversals
         <ul>
       <li>Create a binary search tree</li>
       <li>Do the traversals</li>
