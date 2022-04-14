@@ -79,17 +79,19 @@ The program description are given below and you can open the corresponding progr
 <h2>CYCLE 6</h2>
 <ul>
     <li>39.Write programs to implement the following using doubly linked list:
+        <ul>
       <li>Create a doubly linked list with n elements by adding elements at the end.</li>
       <li>Given a node data, insert a new node after it.</li>
       <li>Given a node data, insert a new node before it.</li>
       <li>Insert a new node in the given position.</li>
       <li>Delete a node, given the key data value.</li>
       <li>Delete a node given the position.</li>
-      <li>Delete the smallest element from the list.</li></li>
+            <li>Delete the smallest element from the list.</li></ul></li>
     <li>40.Implement a circular linked list with provisions to insert and delete elements(singly/doubly)</li>
     <li>41.Represent polynomials using linked list and write programs to do the
+        <ul>
       <li>addition</li>
       <li>subtraction.</li>
-      <li>multiplication.</li></li>
+            <li>multiplication.</li></ul></li>
 </ul>
 <br>
