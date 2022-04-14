@@ -80,23 +80,23 @@ The program description are given below and you can open the corresponding progr
 </ul>
 <br>
 <h2>CYCLE 6</h2>
+<h3>Implement the following using doubly linked list:</h3>
+
 <ul>
-    <li>41.Write programs to implement the following using doubly linked list:
-        <ul>
-      <li>Create a doubly linked list with n elements by adding elements at the end.</li>
-      <li>Given a node data, insert a new node after it.</li>
-      <li>Given a node data, insert a new node before it.</li>
-      <li>Insert a new node in the given position.</li>
-      <li>Delete a node, given the key data value.</li>
-      <li>Delete a node given the position.</li>
-            <li>Delete the smallest element from the list.</li></ul></li>
+      <li>41.Create a doubly linked list with n elements by adding elements at the end.</li>
+      <li>42.Given a node data, insert a new node after it.</li>
+      <li>43.Given a node data, insert a new node before it.</li>
+      <li>44.Insert a new node in the given position.</li>
+      <li>45.Delete a node, given the key data value.</li>
+      <li>46.Delete a node given the position.</li>
+      <li>47.Delete the smallest element from the list.</li>
     <li>42.Implement a circular linked list with provisions to insert and delete elements(singly/doubly)</li>
-    <li>43.Represent polynomials using linked list and write programs to do the
+    </ul>
+    <h3>43.Represent polynomials using linked list </h3>
         <ul>
       <li>addition</li>
       <li>subtraction.</li>
-            <li>multiplication.</li></ul></li>
-</ul>
+            <li>multiplication.</li></ul>
 <br>
 <h2>CYCLE 7</h2>
 <ul>
