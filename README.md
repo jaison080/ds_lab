@@ -99,21 +99,12 @@ The program description are given below and you can open the corresponding progr
             <li>51.Multiplication.</li></ul>
 <br>
 <h2>CYCLE 7</h2>
-<ul>
-    <li>52.Build a Binary Search Tree and Implement all the operations and Traversals
+    <h3>Build a Binary Search Tree and Implement all the operations and Traversals </h3>
         <ul>
-      <li>Create a binary search tree</li>
-      <li>Do the traversals</li>
-      <ul>
-      <li>Inorder</li>
-      <li>Preorder</li>
-      <li>Post Order</li>
-      <li>Level Order</li>
+          <li>52.Create a binary search tree</li>
+          <li>53.Inorder,Preorder,Post Order</li>
+          <li>54.Level Order</li>
+          <li>55.Delete a specified node</li>
+          <li>56.Search for a given key element ( print found/not found also print the number of comparisons made )</li>
       </ul>
-      <li>Delete a specified node</li>
-      <li>Search for a given key element ( print found/not found also print the number of comparisons made )</li>
-      </ul>
-      </li>
-    
-</ul>
 <br>
