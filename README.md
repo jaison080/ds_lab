@@ -70,8 +70,8 @@ The program description are given below and you can open the corresponding progr
 <br>
 <h2>CYCLE 5</h2>
 <ul>
-  <li>34.Queue - Implement using array and Linked List.</li>
-  <li>35.Queue - Implement using array and Linked List.</li>
+  <li>34.Queue - Implement using Array</li>
+  <li>35.Queue - Implement using Linked List.</li>
   <li>36.Circlular Queue ( Ring Buffer)- Implement Using Array</li>
   <li>37.Circlular Queue ( Ring Buffer)- Implement Using Linked List.</li>
   <li>38.Priority Queue -Implement Using Array</li>
