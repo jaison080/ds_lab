@@ -92,14 +92,14 @@ The program description are given below and you can open the corresponding progr
       <li>47.Delete the smallest element from the list.</li>
     <li>48.Implement a circular linked list with provisions to insert and delete elements(singly/doubly)</li>
     </ul>
-    <h3>Represent polynomials using linked list </h3>
+<h3>Represent polynomials using linked list </h3>
         <ul>
       <li>49.Addition</li>
       <li>50.Subtraction.</li>
             <li>51.Multiplication.</li></ul>
 <br>
 <h2>CYCLE 7</h2>
-    <h3>Build a Binary Search Tree and Implement all the operations and Traversals </h3>
+<h3>Build a Binary Search Tree and Implement all the operations and Traversals </h3>
         <ul>
           <li>52.Create a binary search tree</li>
           <li>53.Inorder,Preorder,Post Order</li>
