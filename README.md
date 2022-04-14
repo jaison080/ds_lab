@@ -83,20 +83,20 @@ The program description are given below and you can open the corresponding progr
 <h3>Implement the following using doubly linked list:</h3>
 
 <ul>
-      <li>41.Create a doubly linked list with n elements by adding elements at the end.</li>
-      <li>42.Given a node data, insert a new node after it.</li>
-      <li>43.Given a node data, insert a new node before it.</li>
-      <li>44.Insert a new node in the given position.</li>
-      <li>45.Delete a node, given the key data value.</li>
-      <li>46.Delete a node given the position.</li>
-      <li>47.Delete the smallest element from the list.</li>
-    <li>48.Implement a circular linked list with provisions to insert and delete elements(singly/doubly)</li>
+      <li>41.Create a doubly linked list with n elements by adding elements at the end.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%206/Program41.c" target="blank" > Solution</a></li>
+      <li>42.Given a node data, insert a new node after it.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%206/Program42.c" target="blank" > Solution</a></li>
+      <li>43.Given a node data, insert a new node before it.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%206/Program43.c" target="blank" > Solution</a></li>
+      <li>44.Insert a new node in the given position.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%206/Program44.c" target="blank" > Solution</a></li>
+      <li>45.Delete a node, given the key data value.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%206/Program45.c" target="blank" > Solution</a></li>
+      <li>46.Delete a node given the position.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%206/Program46.c" target="blank" > Solution</a></li>
+      <li>47.Delete the smallest element from the list.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%206/Program47.c" target="blank" > Solution</a></li>
+    <li>48.Implement a circular linked list with provisions to insert and delete elements(singly/doubly)<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%206/Program48.c" target="blank" > Solution</a></li>
     </ul>
 <h3>Represent polynomials using linked list </h3>
         <ul>
-      <li>49.Addition</li>
-      <li>50.Subtraction.</li>
-            <li>51.Multiplication.</li></ul>
+      <li>49.Addition.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%205/Program49.c" target="blank" > Solution</a></li>
+      <li>50.Subtraction.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%205/Program50.c" target="blank" > Solution</a></li>
+            <li>51.Multiplication.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%205/Program51.c" target="blank" > Solution</a></li></ul>
 <br>
 <h2>CYCLE 7</h2>
 <h3>Build a Binary Search Tree and Implement all the operations and Traversals </h3>
