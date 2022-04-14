@@ -90,13 +90,13 @@ The program description are given below and you can open the corresponding progr
       <li>45.Delete a node, given the key data value.</li>
       <li>46.Delete a node given the position.</li>
       <li>47.Delete the smallest element from the list.</li>
-    <li>42.Implement a circular linked list with provisions to insert and delete elements(singly/doubly)</li>
+    <li>49.Implement a circular linked list with provisions to insert and delete elements(singly/doubly)</li>
     </ul>
-    <h3>43.Represent polynomials using linked list </h3>
+    <h3>Represent polynomials using linked list </h3>
         <ul>
-      <li>addition</li>
-      <li>subtraction.</li>
-            <li>multiplication.</li></ul>
+      <li>50.Addition</li>
+      <li>51.Subtraction.</li>
+            <li>52.Multiplication.</li></ul>
 <br>
 <h2>CYCLE 7</h2>
 <ul>
