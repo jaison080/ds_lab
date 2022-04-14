@@ -105,6 +105,6 @@ The program description are given below and you can open the corresponding progr
   <li>53.Inorder,Preorder,Post Order.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%207/Program53.c" target="blank" > Solution</a></li>
   <li>54.Level Order.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%207/Program54.c" target="blank" > Solution</a></li>
   <li>55.Delete a specified node.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%207/Program55.c" target="blank" > Solution</a></li>
-  <li>56.Search for a given key element ( print found/not found also print the number of comparisons made.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%207/Program56.c" target="blank" > Solution</a></li>
+  <li>56.Search for a given key element (print found/not found also print the number of comparisons made).<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%207/Program56.c" target="blank" > Solution</a></li>
 </ul>
 <br>
