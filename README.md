@@ -18,22 +18,22 @@ The program description are given below and you can open the corresponding progr
 <ul>
     <li>6.Write a program to read two polynomials and store them in an array.
     Calculate the sum of the two polynomials and display the first
-    polynomial, second polynomial and the resultant polynomial.</li>
+    polynomial, second polynomial and the resultant polynomial.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%202/Program6.c" target="blank" > Solution</a></li>
     <li>7.Read and polynomial of degree n and store in an array. Evaluate this
     polynomial for a given value of x.
     Eg: 3x^2+2x+1
     x=2
-    evaluation=12+4+1=17</li>
+    evaluation=12+4+1=17<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%202/Program7.c" target="blank" > Solution</a></li>
     <li>8.Given a sparse matrix . Represent and store it using an efficient
     method. Also find the sparsity (The sparsity of a matrix can be
     quantified with a score, which is the number of zero values in the
-    matrix divided by the total number of elements in the matrix.)</li>
+    matrix divided by the total number of elements in the matrix.)<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%202/Program8.c" target="blank" > Solution</a></li>
     <li>9.Input the representation of two sparse matrices. Obtain the
-    representation of their sum.</li>
+    representation of their sum.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%202/Program9.c" target="blank" > Solution</a></li>
     <li>10.Input the representation of a sparse matrix. Find the representation
-    of its transpose.</li>
+    of its transpose.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%202/Program10.c" target="blank" > Solution</a></li>
     <li>11.Check whether the given matrix is sparse symmetric using the
-    representation given.</li>
+    representation given.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%202/Program11.c" target="blank" > Solution</a></li>
 </ul>
 <br>
 <h2>CYCLE 3</h2>
