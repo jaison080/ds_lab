@@ -107,7 +107,10 @@ The program description are given below and you can open the corresponding progr
       <li>Post Order</li>
       <li>Level Order</li>
       </ul>
-      <li>Delete a specified node</li></ul></li>
-    <li>Search for a given key element ( print found/not found also print the number of comparisons made )</li>
+      <li>Delete a specified node</li>
+      <li>Search for a given key element ( print found/not found also print the number of comparisons made )</li>
+      </ul>
+      </li>
+    
 </ul>
 <br>
