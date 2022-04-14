@@ -71,14 +71,17 @@ The program description are given below and you can open the corresponding progr
 <h2>CYCLE 5</h2>
 <ul>
   <li>34.Queue - Implement using array and Linked List.</li>
-  <li>35.Circlular Queue ( Ring Buffer)- Implement Using Array and Linked List.</li>
-  <li>37.Priority Queue -Implement Using Array or Linked List.</li>
-  <li>38.Double Ended Queue –Implement using linked list.</li>
+  <li>35.Queue - Implement using array and Linked List.</li>
+  <li>36.Circlular Queue ( Ring Buffer)- Implement Using Array</li>
+  <li>37.Circlular Queue ( Ring Buffer)- Implement Using Linked List.</li>
+  <li>38.Priority Queue -Implement Using Array</li>
+  <li>39.Priority Queue -Implement Using Linked List.</li>
+  <li>40.Double Ended Queue –Implement using linked list.</li>
 </ul>
 <br>
 <h2>CYCLE 6</h2>
 <ul>
-    <li>39.Write programs to implement the following using doubly linked list:
+    <li>41.Write programs to implement the following using doubly linked list:
         <ul>
       <li>Create a doubly linked list with n elements by adding elements at the end.</li>
       <li>Given a node data, insert a new node after it.</li>
@@ -87,8 +90,8 @@ The program description are given below and you can open the corresponding progr
       <li>Delete a node, given the key data value.</li>
       <li>Delete a node given the position.</li>
             <li>Delete the smallest element from the list.</li></ul></li>
-    <li>40.Implement a circular linked list with provisions to insert and delete elements(singly/doubly)</li>
-    <li>41.Represent polynomials using linked list and write programs to do the
+    <li>42.Implement a circular linked list with provisions to insert and delete elements(singly/doubly)</li>
+    <li>43.Represent polynomials using linked list and write programs to do the
         <ul>
       <li>addition</li>
       <li>subtraction.</li>
@@ -97,7 +100,7 @@ The program description are given below and you can open the corresponding progr
 <br>
 <h2>CYCLE 7</h2>
 <ul>
-    <li>42.Build a Binary Search Tree and Implement all the operations and Traversals
+    <li>44.Build a Binary Search Tree and Implement all the operations and Traversals
         <ul>
       <li>Create a binary search tree</li>
       <li>Do the traversals</li>
