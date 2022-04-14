@@ -55,17 +55,17 @@ The program description are given below and you can open the corresponding progr
 <br>
 <h2>CYCLE 4</h2>
 <ul>
-  <li>23.Create a linked list with n elements by adding elements at the end.</li>
-  <li>24.Given a node data, insert a new node after it.</li>
-  <li>25.Given a node data, insert a new node before it.</li>
-  <li>26.Insert a new node in the given position.</li>
-  <li>27.Delete a node, given the key data value.</li>
-  <li>28.Delete a node given the position.</li>
-  <li>29.Delete the smallest element from the list.</li>
-  <li>30.Reverse a list.</li>
-  <li>31.Search for a given element and print it's position.</li>
-  <li>32.Create a list in sorted order.</li>
-  <li>33.Implement a stack using singly linked list (this can be considered as a part of the previous assignment on stack).</li>
+  <li>23.Create a linked list with n elements by adding elements at the end.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%204/Program23.c" target="blank" > Solution</a></li>
+  <li>24.Given a node data, insert a new node after it.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%204/Program24.c" target="blank" > Solution</a></li>
+  <li>25.Given a node data, insert a new node before it.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%204/Program25.c" target="blank" > Solution</a></li>
+  <li>26.Insert a new node in the given position.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%204/Program26.c" target="blank" > Solution</a></li>
+  <li>27.Delete a node, given the key data value.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%204/Program27.c" target="blank" > Solution</a></li>
+  <li>28.Delete a node given the position.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%204/Program28.c" target="blank" > Solution</a></li>
+  <li>29.Delete the smallest element from the list.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%204/Program29.c" target="blank" > Solution</a></li>
+  <li>30.Reverse a list.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%204/Program30.c" target="blank" > Solution</a></li>
+  <li>31.Search for a given element and print it's position.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%204/Program31.c" target="blank" > Solution</a></li>
+  <li>32.Create a list in sorted order.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%204/Program32.c" target="blank" > Solution</a></li>
+  <li>33.Implement a stack using singly linked list (this can be considered as a part of the previous assignment on stack).<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%204/Program33.c" target="blank" > Solution</a></li>
 </ul>
 <br>
 <h2>CYCLE 5</h2>
