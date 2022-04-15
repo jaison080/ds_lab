@@ -128,3 +128,12 @@ of each element.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%208
 ( if the list is not sorted sort the list first).<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%208/Program69.c" target="blank" > Solution</a></li>
 </ul>
 <br>
+<h2>CYCLE 9</h2>
+<ul>
+  <li>70.Implement The Graph representation and BFS and DFS for Adjacency Matrix.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%209/Program70.c" target="blank" > Solution</a></li>
+  <li>71.Implement The Graph representation and BFS and DFS for Incident Matrix.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%209/Program71.c" target="blank" > Solution</a></li>
+  <li>72.Implement The Graph representation and BFS and DFS for Adjacency List.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%209/Program72.c" target="blank" > Solution</a></li>
+</ul>
+<h3>Answer the queries like degree of a vertex. List of vertices adjacent to a vertex.
+Etc..</h3>
+<br>
