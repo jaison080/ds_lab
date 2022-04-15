@@ -108,3 +108,23 @@ The program description are given below and you can open the corresponding progr
   <li>56.Search for a given key element (print found/not found also print the number of comparisons made).<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%207/Program56.c" target="blank" > Solution</a></li>
 </ul>
 <br>
+<h2>CYCLE 8</h2>
+<ul>
+  <li>57.Implement Linear Search.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%208/Program57.c" target="blank" > Solution</a></li>
+  <li>58.Implement Binary Search.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%208/Program58.c" target="blank" > Solution</a></li>
+  <li>59.Implement Bubble Sort.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%208/Program59.c" target="blank" > Solution</a></li>
+  <li>60.Implement Exchange Sort.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%208/Program60.c" target="blank" > Solution</a></li>
+  <li>61.Implement Selection Sort.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%208/Program61.c" target="blank" > Solution</a></li>
+<li>62.Implement Insertion Sort.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%208/Program62.c" target="blank" > Solution</a></li>
+<li>63.Merge two sorted Arrays.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%208/Program63.c" target="blank" > Solution</a></li>
+<li>64.Implement Merge sort.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%208/Program64.c" target="blank" > Solution</a></li>
+<li>65.Implement Quick sort.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%208/Program65.c" target="blank" > Solution</a></li>
+<li>66.Implement Heap sort.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%208/Program66.c" target="blank" > Solution</a></li>
+<li>67.Find the second largest element from a list. There may be more than one
+largest element.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%208/Program67.c" target="blank" > Solution</a></li>
+<li>68.Find the duplicate element from a list. Also list the number of occurrence
+of each element.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%208/Program68.c" target="blank" > Solution</a></li>
+<li>69.Find the mean, median, mode, and range of the list of values:
+( if the list is not sorted sort the list first).<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%208/Program69.c" target="blank" > Solution</a></li>
+</ul>
+<br>
