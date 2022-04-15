@@ -1,4 +1,4 @@
-# ds_lab
+# Data Structures Lab(2019 Scheme)
 
 <h3>DS LAB</h3>
 <p>Contains solutions for all DS Lab Programs.
