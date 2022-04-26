@@ -139,7 +139,7 @@ Etc..</h3>
 <br>
 <h2>EXTERNAL EXAM</h2>
 <ul>
-  <li>73.Enter a string and check if it’s palindrome using stack<a href="https://github.com/jaison080/ds_lab/blob/main/ExternalExam/Program1.c" target="blank" > Solution</a></li>
+  <li>73.Enter a string and check if it’s palindrome using stack.<a href="https://github.com/jaison080/ds_lab/blob/main/ExternalExam/Program1.c" target="blank" > Solution</a></li>
   <li>71.Given a Linked List split the odd and even numbers into seperate Linked List.<a href="https://github.com/jaison080/ds_lab/blob/main/ExternalExam/Program2.c" target="blank" > Solution</a></li>
 <br>
 <b>Made with ❤️ </b><a href="https://github.com/jaison080"><b>Jaison Dennis</b></a>
