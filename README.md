@@ -143,5 +143,6 @@ Etc..</h3>
   <li>74.Given a Linked List split the odd and even numbers into seperate Linked List.<a href="https://github.com/jaison080/ds_lab/blob/main/ExternalExam/Program2.c" target="blank" > Solution</a></li>
     <li>75.Write a C program to display 2 Queues and check if they're the same or different.<a href="https://github.com/jaison080/ds_lab/blob/main/ExternalExam/Program3.c" target="blank" > Solution</a></li>
     <li>76.Write a C program to reverse elements in a queue using stack.Use linked list implementation of queue.Display queue before and after reversing .<a href="https://github.com/jaison080/ds_lab/blob/main/ExternalExam/Program4.c" target="blank" > Solution</a></li>
+    <li>77.Write a C program to display a double ended queue and display the largest number in dequeue.<a href="https://github.com/jaison080/ds_lab/blob/main/ExternalExam/Program5.c" target="blank" > Solution</a></li>
 <br>
 <b>Made with ❤️ </b><a href="https://github.com/jaison080"><b>Jaison Dennis</b></a>
