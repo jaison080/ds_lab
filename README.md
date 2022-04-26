@@ -72,8 +72,8 @@ The program description are given below and you can open the corresponding progr
 <ul>
   <li>34.Queue - Implement using Array.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%205/Program34.c" target="blank" > Solution</a></li>
   <li>35.Queue - Implement using Linked List.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%205/Program35.c" target="blank" > Solution</a></li>
-  <li>36.Circlular Queue ( Ring Buffer)- Implement Using Array.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%205/Program36.c" target="blank" > Solution</a></li>
-  <li>37.Circlular Queue ( Ring Buffer)- Implement Using Linked List.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%205/Program37.c" target="blank" > Solution</a></li>
+  <li>36.Circular Queue ( Ring Buffer)- Implement Using Array.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%205/Program36.c" target="blank" > Solution</a></li>
+  <li>37.Circular Queue ( Ring Buffer)- Implement Using Linked List.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%205/Program37.c" target="blank" > Solution</a></li>
   <li>38.Priority Queue -Implement Using Array.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%205/Program38.c" target="blank" > Solution</a></li>
   <li>39.Priority Queue -Implement Using Linked List.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%205/Program39.c" target="blank" > Solution</a></li>
   <li>40.Double Ended Queue –Implement using linked list.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%205/Program40.c" target="blank" > Solution</a></li>
