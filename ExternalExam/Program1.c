@@ -25,11 +25,11 @@ void push1(char d)
 }
 char pop()
 {
-	return arr[top];
+	return arr[top--];
 }
 char pop1()
 {
-	return rev[top];
+	return rev[top1--];
 }
 void isPalindrome(int m)
 {
