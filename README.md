@@ -2,7 +2,7 @@
 
 <h3>DS LAB</h3>
 <p>Contains solutions for all DS Lab Programs.
-This repository contains all you need for DS Lab of KTU Semester 3
+This repository contains all you need for DS Lab of KTU Semester 3.
 The program description are given below and you can open the corresponding program from the repository.</p>
 <br>
 <h2>CYCLE 1</h2>
