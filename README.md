@@ -43,7 +43,7 @@ The program description are given below and you can open the corresponding progr
     efficient implementation.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%203/Program13.c" target="blank" > Solution</a></li>
     <li>14.Find the minimum element in a stack in O(1) time using an auxiliary stack
     which keeps track of the minimum element.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%203/Program14.c" target="blank" > Solution</a></li>
-    <li>15.implement a sorted push so that stack is always maintained in sorted order.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%203/Program15.c" target="blank" > Solution</a></li>
+    <li>15.Implement a sorted push so that stack is always maintained in sorted order.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%203/Program15.c" target="blank" > Solution</a></li>
     <li>16.Convert a given decimal number into binary and hex using stack.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%203/Program16.c" target="blank" > Solution</a></li>
     <li>17.Check whether a string is palindrome using stack.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%203/Program17.c" target="blank" > Solution</a></li>
     <li>18.Check whether the parenthesis are balanced in an expression using stack.<a href="https://github.com/jaison080/ds_lab/blob/main/Cycle%203/Program18.c" target="blank" > Solution</a></li>
